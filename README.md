@@ -29,7 +29,7 @@ I believe software changes people's lives. I build apps and products that try to
 - 💸 **[ExpenseFlow — Spending Tracker](https://apps.apple.com/app/id6752466220)** — Track spending and see where your money actually goes
 - 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
 
-## Cerebro Turbo
+## Open Source
 
 - 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — Open-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
 - 🧠 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
