@@ -33,9 +33,10 @@ I believe software changes people's lives. I build apps and products that try to
 
 - 🧠 **[Cerebro](https://github.com/AgenticFirst/Cerebro)** — Open-source personal intelligence system for building AI experts, automating routines, and running work and life from a single command center
 - ⚡ **[Turbo](https://github.com/HackerHouse-io/Turbo)** — Orchestrate multiple Claude Code agents from a single command center; run sessions across projects in parallel
-- 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — Open-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
+- 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — What if your project could maintain itself? This is an ppen-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
 - 🧪 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
+- 🪂 **[AirScript](https://github.com/HackerHouse-io/AirScript)** — Swift / Apple-platforms project (early-stage, more soon)
 
 ## GitHub Activity
 
