@@ -33,11 +33,8 @@ I believe software changes people's lives. I build apps and products that try to
 
 ### Earlier Projects
 
-- 🚀 **[kepler22](https://github.com/calovera/kepler22)** — Build mobile apps using only a chat interface
-- 🪐 **[kepler22-a](https://github.com/calovera/kepler22-a)** — Next iteration of the kepler22 stack
 - 🧠 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
-- 👥 **[CodeGurus-Legacy](https://github.com/calovera/CodeGurus-Legacy)** — Earlier CodeGurus codebase
 
 ## GitHub Activity
 
