@@ -8,7 +8,6 @@ I believe software changes people's lives. I build apps and products that try to
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -26,11 +25,9 @@ I believe software changes people's lives. I build apps and products that try to
 
 ## iOS Apps
 
-<!-- Drop in your App Store apps here in this format:
-- 📱 **[App Name](https://apps.apple.com/us/app/idXXXXXXXXX)** — one-line description
--->
-
-_Coming soon — App Store links going here._
+- 🔗 **[LinkNest — Save & Manage Links](https://apps.apple.com/app/id6759996303)** — Save, organize, and revisit every link in one place
+- 💸 **[ExpenseFlow — Spending Tracker](https://apps.apple.com/app/id6752466220)** — Track spending and see where your money actually goes
+- 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
 
 ## Open Source
 
@@ -38,7 +35,6 @@ _Coming soon — App Store links going here._
 - 🪐 **[kepler22-a](https://github.com/calovera/kepler22-a)** — Next iteration of the kepler22 stack
 - 🧠 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
-- 💸 **[ExpenseFlow](https://github.com/calovera/ExpenseFlow)** — Expense tracking project
 - 👥 **[CodeGurus-Legacy](https://github.com/calovera/CodeGurus-Legacy)** — Earlier CodeGurus codebase
 
 ### Earlier Learning Projects
