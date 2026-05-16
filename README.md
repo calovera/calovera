@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋
 
-📍 **Florida ↔ New York** | 🎓 **BU · Dartmouth · Cornell · Columbia**
+📍 **Florida ↔ New York** | 🎓 **Boston University · Dartmouth · Cornell · Columbia**
 
 I believe software changes people's lives. I build apps and products that try to make other people's lives better — and I want to use AI to help deliver high-quality education to as many people as possible, wherever they are in the world.
 
@@ -29,10 +29,12 @@ I believe software changes people's lives. I build apps and products that try to
 - 💸 **[ExpenseFlow — Spending Tracker](https://apps.apple.com/app/id6752466220)** — Track spending and see where your money actually goes
 - 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
 
-## Open Source
+## Projects
 
+- 🧠 **[Cerebro](https://github.com/AgenticFirst/Cerebro)** — Open-source personal intelligence system for building AI experts, automating routines, and running work and life from a single command center
+- ⚡ **[Turbo](https://github.com/HackerHouse-io/Turbo)** — Orchestrate multiple Claude Code agents from a single command center; run sessions across projects in parallel
 - 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — Open-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
-- 🧠 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
+- 🧪 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
 
 ## GitHub Activity
