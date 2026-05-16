@@ -48,4 +48,4 @@ I'd love to hear from anyone building things or learning to build things. If any
 
 ---
 
-> *May we be smart enough to build the future, and kind enough to make other people want to live in it.*
+> *May we be smart enough to build the future, and kind enough that others want to live in it.*
