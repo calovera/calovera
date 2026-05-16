@@ -29,22 +29,15 @@ I believe software changes people's lives. I build apps and products that try to
 - 💸 **[ExpenseFlow — Spending Tracker](https://apps.apple.com/app/id6752466220)** — Track spending and see where your money actually goes
 - 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
 
-## Open Source
+## Cerebro Turbo
+
+### Earlier Projects
 
 - 🚀 **[kepler22](https://github.com/calovera/kepler22)** — Build mobile apps using only a chat interface
 - 🪐 **[kepler22-a](https://github.com/calovera/kepler22-a)** — Next iteration of the kepler22 stack
 - 🧠 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
 - 👥 **[CodeGurus-Legacy](https://github.com/calovera/CodeGurus-Legacy)** — Earlier CodeGurus codebase
-
-### Earlier Learning Projects
-
-- 🌦️ **[Whats_the_weather](https://github.com/calovera/Whats_the_weather)** — Android weather API template
-- 🧠 **[Android_Brain_Trainer](https://github.com/calovera/Android_Brain_Trainer)** — Math brain trainer in Android
-- 🎬 **[electronBasicGetVideoLength](https://github.com/calovera/electronBasicGetVideoLength)** — First ElectronJS project: get video length
-- ⏱️ **[EggTimer](https://github.com/calovera/EggTimer)** — Android CountDownTimer template
-- 🎮 **[Connect3](https://github.com/calovera/Connect3)** — Tic Tac Toe in Android Studio
-- 🔊 **[Basic_Phrases](https://github.com/calovera/Basic_Phrases)** — Tap-to-play audio template
 
 ## GitHub Activity
 
