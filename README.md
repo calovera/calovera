@@ -31,8 +31,7 @@ I believe software changes people's lives. I build apps and products that try to
 
 ## Cerebro Turbo
 
-### Earlier Projects
-
+- 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — Open-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
 - 🧠 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
 
