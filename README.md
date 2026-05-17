@@ -30,7 +30,7 @@ I believe software changes people's lives. I build apps and products that try to
 - 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
 
 ## Projects
-- 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — What if your project could maintain itself? This is an ppen-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
+- 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — What if your project could maintain itself? This is an open-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
 - 🧠 **[Cerebro](https://github.com/AgenticFirst/Cerebro)** — Open-source personal intelligence system for building AI experts, automating routines, and running work and life from a single command center
 - ⚡ **[Turbo](https://github.com/HackerHouse-io/Turbo)** — Orchestrate multiple Claude Code agents from a single command center; run sessions across projects in parallel
 - 🎙️ **[AirScript](https://github.com/HackerHouse-io/AirScript)** — macOS menu-bar dictation app: hands-free voice → text powered by local Whisper + LLM, with custom voice commands and per-app smart paste (Slack, Mail, VS Code, Xcode, and more)
