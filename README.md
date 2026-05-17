@@ -2,7 +2,7 @@
 
 📍 **Florida ↔ New York** | 🎓 **Boston University · Dartmouth · Cornell · Columbia**
 
-I believe software changes people's lives. I build apps and products that try to make other people's lives better — and I want to use AI to help deliver high-quality education to as many people as possible, wherever they are in the world.
+I believe software changes people's lives. I build apps and products that try to make other people's lives better — and I use AI to help deliver high quality education to as many people as possible, wherever they are in the world.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
