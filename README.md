@@ -37,11 +37,6 @@ I believe software changes people's lives. I build apps and products that try to
 - 🧪 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
 
-
-## GitHub Activity
-
-![Carlos's GitHub Contribution Graph](https://ghchart.rshah.org/calovera)
-
 ## Let's Connect
 
 I'd love to hear from anyone building things or learning to build things. If any of my projects or codebases could help you — reach out, I'm happy to share.
