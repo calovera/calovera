@@ -20,14 +20,7 @@ I believe software changes people's lives. I build apps and products that try to
 - ⛰️ **Dartmouth** — Computing Engineering, specialized in Machine Learning
 - 🏛️ **Cornell** — currently studying Business, continuing ML coursework
 - 📚 **Columbia** — researching Technology for Education & Learning Sciences
-- 🌍 Goal: use AI to deliver high-quality education to anyone, anywhere
 - 🧪 Daily brainstorming dev tools, web apps, and consumer products — I publish anything I think might help others
-
-## iOS Apps
-
-- 🔗 **[LinkNest — Save & Manage Links](https://apps.apple.com/app/id6759996303)** — Save, organize, and revisit every link in one place
-- 💸 **[ExpenseFlow — Spending Tracker](https://apps.apple.com/app/id6752466220)** — Track spending and see where your money actually goes
-- 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
 
 ## Projects
 - 🗿 **[Obelisk](https://github.com/HackerHouse-io/Obelisk)** — What if your project could maintain itself? This is an open-source desktop app that runs AI coding agents on your GitHub repos: writes features, fixes bugs, files issues, runs QA, and reviews pull requests automatically
@@ -36,6 +29,13 @@ I believe software changes people's lives. I build apps and products that try to
 - 🎙️ **[AirScript](https://github.com/HackerHouse-io/AirScript)** — macOS menu-bar dictation app: hands-free voice → text powered by local Whisper + LLM, with custom voice commands and per-app smart paste (Slack, Mail, VS Code, Xcode, and more)
 - 🧪 **[PromptHero](https://github.com/calovera/PromptHero)** — Prompt engineering playground
 - 🔁 **[Leet2Git](https://github.com/calovera/Leet2Git)** — Sync LeetCode solutions to GitHub
+
+## iOS Apps
+
+- 🔗 **[LinkNest — Save & Manage Links](https://apps.apple.com/app/id6759996303)** — Save, organize, and revisit every link in one place
+- 💸 **[ExpenseFlow — Spending Tracker](https://apps.apple.com/app/id6752466220)** — Track spending and see where your money actually goes
+- 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
+
 
 ## Let's Connect
 
