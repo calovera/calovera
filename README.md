@@ -32,6 +32,7 @@ I believe software changes people's lives. I build apps and products that try to
 
 ## iOS Apps
 
+- 🎓 **[WealthLab — Learn Business](https://apps.apple.com/pt/app/wealthlab-learn-business/id6769087439)** — Business school in your pocket: one-minute lessons on how top founders think about strategy, finance, and AI
 - 🔗 **[LinkNest — Save & Manage Links](https://apps.apple.com/app/id6759996303)** — Save, organize, and revisit every link in one place
 - 💸 **[ExpenseFlow — Spending Tracker](https://apps.apple.com/app/id6752466220)** — Track spending and see where your money actually goes
 - 🧹 **[FreeSpace — Storage Cleaner](https://apps.apple.com/app/id6758184730)** — Reclaim iPhone storage by clearing what you don't need
